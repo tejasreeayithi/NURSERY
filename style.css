@@ -1,0 +1,260 @@
+.sec-1 {
+    border: 2px solid #716d6d;
+    background-color: rgb(88, 88, 88);
+    width: 100%;
+    height: 43px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    color: white;
+}
+
+.teju2 {
+
+    color: whitesmoke;
+    margin-left: 165px;
+
+}
+
+.teju2 input,
+button {
+    margin-left: 80px;
+}
+
+.teju3 {
+    height: 800px;
+    width: 100%;
+
+}
+
+.sec1 video {
+    width: 100%;
+    height: 100%;
+}
+
+.teju4 {
+    color: green;
+}
+
+.sec-2 {
+    width: 100%;
+    height: 43px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 270px;
+}
+
+.teju5 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju5 center,
+button {
+    margin-left: 7px;
+    margin-top: -7px;
+}
+
+.teju6 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju6 center,
+button {
+    margin-left: 7px;
+    margin-top: -7px;
+}
+
+.teju7 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju7 button {
+    margin-left: 7px;
+    margin-top: -20px;
+}
+
+.tejuu7 p {
+    margin-top: 0px;
+}
+
+
+
+
+
+.teju8 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju8 center,
+button {
+    margin-left: 7px;
+    margin-top: -7px;
+}
+
+.teju13 {
+    color: green;
+    margin-top: 160px;
+}
+
+.sec3 {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 250px;
+    margin-left: 2px;
+}
+
+.teju9 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju9 center,
+button {
+    margin-left: 7px;
+}
+
+
+.teju10 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju10 center,
+button {
+    margin-left: 7px;
+}
+
+.teju11 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju11 center,
+button {
+    margin-left: 7px;
+}
+
+.teju12 {
+    border: 2px solid brown;
+    border-radius: 5px;
+    height: 380px;
+    width: 300px;
+    margin-bottom: 156px;
+    margin-top: 56px;
+    background-color: burlywood;
+    color: black;
+}
+
+.teju12 center,
+button {
+    margin-left: 7px;
+}
+
+.sec3 button {
+    width: 290px;
+    background-color: green;
+    color: black;
+    align-items: center;
+    margin-top: 54px;
+}
+
+.sec4 {
+    border: 2px solis red;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    margin-top: 180px;
+    display: flex;
+    align-items: baseline;
+
+}
+
+
+.footer1 ul {
+    list-style: none;
+}
+
+.footer2 ul {
+    list-style: none;
+}
+
+.footer3 li,
+ul {
+    list-style: none;
+}
+
+.footer1 {
+    margin-left: 238px;
+}
+
+.footer2 {
+    margin-left: 116px;
+}
+
+.footer3 {
+    margin-left: 125px;
+}
+
+.footer3 ul {
+    color: blue;
+    margin-left: -45px;
+    margin-top: -1px;
+
+}
+
+.footerr3 li {
+    margin-top: -16px;
+}
